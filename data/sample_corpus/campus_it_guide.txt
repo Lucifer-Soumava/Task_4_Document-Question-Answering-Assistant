@@ -1,0 +1,111 @@
+
+IDEAL INSTITUTE OF ENGINEERING (IIE), KALYANI
+STUDENT IT AND DIGITAL FACILITIES GUIDE
+
+Institution
+-----------
+Ideal Institute of Engineering (IIE)
+Kalyani Shilpanchal, opposite Kalyani Shilpanchal Railway Station
+P.O. Kalyani, District Nadia, West Bengal - 741235, India
+
+ABOUT CAMPUS CONNECTIVITY
+-------------------------
+The official Ideal Institute of Engineering website describes the campus as
+having high-speed Wi-Fi connectivity and smart classrooms equipped with
+interactive smart boards and LCD projectors.
+
+The public website does not specify the student Wi-Fi network name (SSID),
+login username format, password, or a self-service Wi-Fi registration process.
+Students should obtain the current connection instructions and credentials
+directly from the institute's authorized staff.
+
+Students should keep their college account credentials private and should not
+share passwords with other people. Do not send passwords by email or include
+them in support requests.
+
+COMPUTER LABORATORIES AND DIGITAL FACILITIES
+--------------------------------------------
+IIE's official website describes advanced laboratories and technology-enabled
+learning facilities on campus. The institute also describes the use of smart
+classrooms with interactive smart boards and LCD projectors.
+
+The public website does not publish a confirmed computer-laboratory room
+number, student lab access schedule, or specific laboratory opening and
+closing hours. Students should confirm lab availability and access rules with
+their department or the staff responsible for the laboratory.
+
+REPORTING COMPUTER, NETWORK, OR PROJECTOR PROBLEMS
+--------------------------------------------------
+For assistance with a campus computer, Wi-Fi connection, classroom projector,
+or other technical issue, students should contact the appropriate department
+office or institute staff and follow the instructions provided by the
+institute.
+
+The institute's public contact page lists the following general contact
+channels:
+
+General institute email: enquiry@iiekalyani.com
+Telephone: 033-2502-5629 / 033-2502-5630
+
+These are general institute contact details published on the official
+website. The website does not identify them as a dedicated IT help-desk
+email address or IT support hotline.
+
+When reporting a technical issue, students should describe:
+- Their department and class or laboratory.
+- The device or service affected (for example, campus Wi-Fi, desktop, or
+  classroom projector).
+- The approximate time when the problem occurred.
+- The error message, if one appeared.
+
+Students must never include their account password in a support request.
+
+PASSWORD AND ACCOUNT SUPPORT
+----------------------------
+The public IIE website does not describe a specific student account password
+reset portal or password-reset procedure.
+
+Students who cannot access a college-provided account should contact the
+appropriate institute office or authorized staff member and ask for the
+current account recovery procedure. Students should verify that any password
+reset link or instruction comes from an official institute source.
+
+Do not share passwords or one-time verification codes with anyone.
+
+STUDENT RESPONSIBILITIES
+------------------------
+1. Use campus internet and computing facilities for legitimate academic and
+   institutional purposes.
+2. Keep college account credentials confidential.
+3. Log out of shared computers after completing work.
+4. Do not install unauthorized software or change laboratory computer
+   settings without permission.
+5. Report damaged equipment, suspicious messages, or network problems to
+   the responsible institute staff.
+6. Follow the latest instructions displayed in the laboratory or issued by
+   the department.
+
+IMPORTANT INFORMATION NOT PUBLISHED ON THE PUBLIC WEBSITE
+----------------------------------------------------------
+The following operational details should be confirmed with IIE before being
+treated as official policy:
+
+- Student Wi-Fi network name (SSID) and connection procedure.
+- Wi-Fi username, password, and account activation process.
+- Dedicated IT help-desk email address or phone number.
+- Computer-laboratory room numbers and opening hours.
+- Rules for booking or accessing computer laboratories.
+- Official password-reset portal and account recovery procedure.
+- Specific penalties or fees for misuse or damage of IT equipment.
+
+OFFICIAL REFERENCE
+------------------
+Website: https://iiekalyani.com/
+Contact page: https://iiekalyani.com/contact/
+Infrastructure page: https://iiekalyani.com/infrastructure/
+
+This guide is a student-facing summary based on information publicly
+available on the institute website, together with general safe-computing
+guidance. It is not an official IIE IT policy document. Confirm operational
+procedures with the institute before relying on them.
+⋮⋮⋮⋮
